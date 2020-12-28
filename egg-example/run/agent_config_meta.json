@@ -1,0 +1,278 @@
+{
+  "keys": "/Users/fuhl/fuhaoliang/egg/egg-example/config/config.default.js",
+  "view": {
+    "defaultViewEngine": "/Users/fuhl/fuhaoliang/egg/egg-example/config/config.default.js",
+    "mapping": {
+      ".tpl": "/Users/fuhl/fuhaoliang/egg/egg-example/config/config.default.js"
+    },
+    "root": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-view/config/config.default.js"
+  },
+  "news": {
+    "serverUrl": "/Users/fuhl/fuhaoliang/egg/egg-example/config/config.default.js"
+  },
+  "middleware": "/Users/fuhl/fuhaoliang/egg/egg-example/config/config.default.js",
+  "robot": {
+    "ua": "/Users/fuhl/fuhaoliang/egg/egg-example/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-static/config/config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-view-nunjucks/config/config.local.js"
+  },
+  "env": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+  "name": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "version": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "description": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "main": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "license": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "dev": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "egg": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "strict": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+      "depth": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "env": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "level": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "logging": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+      "port": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg/config/config.default.js"
+}

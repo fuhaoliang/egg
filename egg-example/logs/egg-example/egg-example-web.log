@@ -1,0 +1,353 @@
+2020-12-28 14:19:33,361 ERROR 95472 [-/127.0.0.1/-/3ms GET /news] nodejs.AssertionError: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-view/lib/context_view.js:69:39)
+    at async NewsController.list (/Users/fuhl/fuhaoliang/egg/egg-example/app/controller/news.js:11:5)
+    at async /Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-bodyparser/index.js:95:5)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 95472
+hostname: fosun-fly.local
+
+2020-12-28 14:20:57,745 ERROR 95541 [-/127.0.0.1/-/5ms GET /news] nodejs.AssertionError: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-view/lib/context_view.js:69:39)
+    at async NewsController.list (/Users/fuhl/fuhaoliang/egg/egg-example/app/controller/news.js:11:5)
+    at async /Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-bodyparser/index.js:95:5)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 95541
+hostname: fosun-fly.local
+
+2020-12-28 14:22:14,081 ERROR 95593 [-/127.0.0.1/-/2ms GET /news] nodejs.AssertionError: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-view/lib/context_view.js:69:39)
+    at async NewsController.list (/Users/fuhl/fuhaoliang/egg/egg-example/app/controller/news.js:11:5)
+    at async /Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-bodyparser/index.js:95:5)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 95593
+hostname: fosun-fly.local
+
+2020-12-28 14:24:11,238 ERROR 95680 [-/127.0.0.1/-/5ms GET /news] nodejs.AssertionError: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-view/lib/context_view.js:69:39)
+    at async NewsController.list (/Users/fuhl/fuhaoliang/egg/egg-example/app/controller/news.js:11:5)
+    at async /Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-bodyparser/index.js:95:5)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 95680
+hostname: fosun-fly.local
+
+2020-12-28 14:24:12,642 ERROR 95680 [-/127.0.0.1/-/1ms GET /news] nodejs.AssertionError: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-view/lib/context_view.js:69:39)
+    at async NewsController.list (/Users/fuhl/fuhaoliang/egg/egg-example/app/controller/news.js:11:5)
+    at async /Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-bodyparser/index.js:95:5)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 95680
+hostname: fosun-fly.local
+
+2020-12-28 14:27:41,508 ERROR 95783 [-/127.0.0.1/-/7ms GET /news] nodejs.AssertionError: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-view/lib/context_view.js:69:39)
+    at async NewsController.list (/Users/fuhl/fuhaoliang/egg/egg-example/app/controller/news.js:11:5)
+    at async /Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-bodyparser/index.js:95:5)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 95783
+hostname: fosun-fly.local
+
+2020-12-28 14:27:43,941 ERROR 95783 [-/127.0.0.1/-/0ms GET /news] nodejs.AssertionError: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-view/lib/context_view.js:69:39)
+    at async NewsController.list (/Users/fuhl/fuhaoliang/egg/egg-example/app/controller/news.js:11:5)
+    at async /Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-bodyparser/index.js:95:5)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 95783
+hostname: fosun-fly.local
+
+2020-12-28 14:27:44,910 ERROR 95783 [-/127.0.0.1/-/1ms GET /news] nodejs.AssertionError: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-view/lib/context_view.js:69:39)
+    at async NewsController.list (/Users/fuhl/fuhaoliang/egg/egg-example/app/controller/news.js:11:5)
+    at async /Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-bodyparser/index.js:95:5)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 95783
+hostname: fosun-fly.local
+
+2020-12-28 14:37:49,646 ERROR 96493 [-/127.0.0.1/-/5024ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/urllib/lib/urllib.js:946:15)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5019,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 96493
+hostname: fosun-fly.local
+
+2020-12-28 14:39:22,891 ERROR 96493 [-/127.0.0.1/-/5002ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":2,"createSocketErrorCount":0,"closeSocketCount":2,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/urllib/lib/urllib.js:946:15)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ConnectionTimeoutError"
+requestId: 2
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5002,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 96493
+hostname: fosun-fly.local
+
+2020-12-28 14:39:34,832 ERROR 96564 [-/127.0.0.1/-/5023ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/urllib/lib/urllib.js:946:15)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5016,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 96564
+hostname: fosun-fly.local
+
+2020-12-28 14:39:56,447 ERROR 96588 [-/127.0.0.1/-/10021ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 10000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/urllib/lib/urllib.js:946:15)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":10015,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 96588
+hostname: fosun-fly.local
+
+2020-12-28 14:40:40,218 ERROR 96599 [-/undefined/-/30074ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 30000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":2,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{"hacker-news.firebaseio.com:443::::::::::::::::::":1},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/urllib/lib/urllib.js:946:15)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":30067,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+headerSent: true
+pid: 96599
+hostname: fosun-fly.local
+
+2020-12-28 16:36:43,976 ERROR 98161 [-/127.0.0.1/-/4ms GET /news] nodejs.ReferenceError: options is not defined
+    at robotMiddleware (/Users/fuhl/fuhaoliang/egg/egg-example/app/middleware/robot.js:4:19)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at /Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at dta (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at xframe (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/xframe.js:7:11)
+
+pid: 98161
+hostname: fosun-fly.local
+
+2020-12-28 16:36:54,458 ERROR 98161 [-/127.0.0.1/-/1ms GET /news] nodejs.ReferenceError: options is not defined
+    at robotMiddleware (/Users/fuhl/fuhaoliang/egg/egg-example/app/middleware/robot.js:4:19)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at /Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at dta (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at xframe (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/xframe.js:7:11)
+
+pid: 98161
+hostname: fosun-fly.local
+
+2020-12-28 16:37:28,587 ERROR 98210 [-/127.0.0.1/-/4ms GET /news] nodejs.ReferenceError: options is not defined
+    at robotMiddleware (/Users/fuhl/fuhaoliang/egg/egg-example/app/middleware/robot.js:4:19)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at /Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at dta (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at xframe (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/xframe.js:7:11)
+
+pid: 98210
+hostname: fosun-fly.local
+
+2020-12-28 16:37:31,217 ERROR 98210 [-/127.0.0.1/-/1ms GET /news] nodejs.ReferenceError: options is not defined
+    at robotMiddleware (/Users/fuhl/fuhaoliang/egg/egg-example/app/middleware/robot.js:4:19)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at /Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at dta (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at xframe (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/xframe.js:7:11)
+
+pid: 98210
+hostname: fosun-fly.local
+
+2020-12-28 16:37:32,930 ERROR 98210 [-/127.0.0.1/-/0ms GET /news] nodejs.ReferenceError: options is not defined
+    at robotMiddleware (/Users/fuhl/fuhaoliang/egg/egg-example/app/middleware/robot.js:4:19)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at /Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at dta (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at xframe (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/xframe.js:7:11)
+
+pid: 98210
+hostname: fosun-fly.local
+
+2020-12-28 16:37:47,458 ERROR 98237 [-/127.0.0.1/-/3ms GET /news] nodejs.ReferenceError: options is not defined
+    at robotMiddleware (/Users/fuhl/fuhaoliang/egg/egg-example/app/middleware/robot.js:4:19)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at /Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at dta (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at xframe (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/xframe.js:7:11)
+
+pid: 98237
+hostname: fosun-fly.local
+
+2020-12-28 16:40:15,762 ERROR 98349 [-/127.0.0.1/-/3ms GET /news] nodejs.ReferenceError: options is not defined
+    at robotMiddleware (/Users/fuhl/fuhaoliang/egg/egg-example/app/middleware/robot.js:4:19)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at /Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at dta (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at xframe (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/xframe.js:7:11)
+
+pid: 98349
+hostname: fosun-fly.local
+
+2020-12-28 16:40:23,944 ERROR 98377 [-/127.0.0.1/-/4ms GET /] nodejs.ReferenceError: options is not defined
+    at robotMiddleware (/Users/fuhl/fuhaoliang/egg/egg-example/app/middleware/robot.js:4:19)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at /Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at dta (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+    at dispatch (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/koa-compose/index.js:42:32)
+    at xframe (/Users/fuhl/fuhaoliang/egg/egg-example/node_modules/egg-security/lib/middlewares/xframe.js:7:11)
+
+pid: 98377
+hostname: fosun-fly.local
+
